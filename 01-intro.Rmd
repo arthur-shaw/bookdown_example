@@ -1,0 +1,38 @@
+# Introduction {#intro}
+
+## Background and Motivation
+
+Food is an important component of many fundamental dimensions of welfare, such as food security, nutrition, and health. It comprises the largest share of total household expenditure in low-income countries, accounting for about 50 percent of the average household budget (USDA, 2011) and accordingly.it is key for consumption and poverty analysis. Low levels of food access play a role in explaining why around 815 million individuals were estimated to be chronically undernourished in 2016 (FAO, WFP, IFAD, UNICEF, and WHO, 2017). Data on food consumption and expenditure underpin the most widely used measures of poverty and of food security. The collection of high-quality food consumption data is, therefore, central to the assessment and monitoring of the well-being of any human population, and is of interest to governments, international agencies, and anyone concerned with monitoring and understanding trends in social, economic, and human development.
+
+:::{#box-1 .boxes}
+
+**BOX 1 — THE CONCEPTS OF FOOD CONSUMPTION**
+Food data collected in HCES can be diverse, and often refer to diverse concepts. Even the term “food consumption” lends itself to multiple meanings. When the focus of the analysis is expenditure, the term “consumption” can designate the purchase of foods, disregarding the end-use of what was purchased. At the opposite end, analyses and surveys that focus on nutrition use the term “food consumption” to designate the intake of a food, possibly net of unusable parts. Throughout this document the term “food consumption” is used in a general sense and encompasses concepts or data that include food consumption, acquisition, expenditure, and intake. Additional descriptive are specifically used in places where their specific meanings are addressed or contrasted, or for details that relate to that precise terminology
+```{r, include=FALSE}
+# use this trick: https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html#custom-blocks
+```
+
+:::
+
+Data on food consumption are needed, for example, to build the indicators and monitor some of the targets set for Sustainable Development Goals 1 and 2 (ending poverty and hunger). Similarly, data on food consumption are needed to assess and guide the mandate of FAO to help eradicate hunger, food insecurity, and malnutrition and the twin goals of the World Bank to eliminate extreme poverty and boost shared prosperity.^[For a list of indicators that can be derived from food data collected in HCES, see Moltedo et al. (2014); Foster et al. (2013).] Even more importantly, national and local governments and non-governmental organizations need high-quality food consumption data to guide local and regional analysis and policy, as the mismeasurement of food consumption can lead to the misallocation of funds and may compromise the design, monitoring, and evaluation of relevant policies and programs.
+
+...and so on...
+
+## Objectives and audience
+
+A product of a consultation process within the international statistical community, which culminated in the endorsement by UNSC member countries at its 49th Session, these guidelines are intended to be a reference document for national statistical offices and survey practitioners designing household consumption and expenditure surveys. In putting forward these scalable standards the IAEG-AG also seeks to promote an increase in the harmonization of survey instruments and the comparability of the resulting data. Against the backdrop of this institutional context, the guidelines have multiple aims:
+
+First, they will provide survey practitioners tasked with designing and implementing HCES in low-income settings with a harmonized set of guiding principles. The aim is to inform the main decisions that need to be taken when designing HCES, factoring in the objective of serving a wide range of users, without compromising data quality.
+
+Second, by putting forward a vision for some of these principles, the guidelines can serve as the basis for an international dialogue between practitioners and data users coming from different disciplines and looking for different features in the data. 
+
+Third, a set of guidelines that can be widely shared and agreed upon will increase the harmonization of the surveys that are implemented (and the resulting data) and give greater coherence to the advice that national statistical offices receive from the international statistical community. Often, different users and institutions head in different directions, resulting in countries adopting very different approaches. Resulting survey design can end up reflecting priorities of donors rather than those of countries and detract from the comparability of data across countries and with other surveys within the same country.
+
+Fourth, by identifying areas in which the consensus is based on a limited evidence-base, the guidelines can be used to chart the way for an internationally agreed survey methodology research agenda. Importantly, the guidelines can be an entry point for sustaining an interdisciplinary dialogue for the advancement of this agenda, which can bring together statisticians, economists, food security analysts, and nutritionists to contribute to an effective repurposing of HCES that can increase the surveys’ “value for money.”
+
+...and so forth...
+
+```{r, echo = FALSE, out.width="100%", fig.cap= "Differences in poverty, inequality and hunger measures associated with different survey design options" }
+knitr::include_graphics(path = 'images/impact of survey design.png')
+```
+

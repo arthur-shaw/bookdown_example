@@ -1,0 +1,11 @@
+fig:unnamed-chunk-3
+intro
+background-and-motivation
+objectives-and-audience
+review-of-the-evidence-and-summary-of-the-main-issues
+recall-versus-diary-and-length-of-reference-period
+methods
+applications
+example-one
+example-two
+final-words
