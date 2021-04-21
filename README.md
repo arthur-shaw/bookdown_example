@@ -1,1 +1,1 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+The goal of this repo is to explore how to use [`bookdown`](https://bookdown.org/yihui/bookdown/) for guidebooks. The content is patterned after [this guidebook](https://www.worldbank.org/en/programs/lsms/publication/food-data-collection-in-household-consumption-and-expenditure-surveys).
